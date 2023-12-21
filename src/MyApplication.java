@@ -1,2 +1,2 @@
-public class MyApplilklkzl zkcьбдлвсation {
+public class MyApplilklkzl zknm mn cьбдлвсation {
 }
