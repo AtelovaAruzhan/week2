@@ -1,4 +1,4 @@
 package models;
 
-public class Shape {
+public class Shape {аа ы
 }

@@ -1,4 +1,4 @@
 package models;
 
-public class Point {
+public class Point {уа ау
 }
