@@ -1,2 +1,2 @@
-public class MyApplication xcdsvfvzdv zz{
+public class MyApplication {
 }
