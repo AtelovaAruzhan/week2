@@ -1,2 +1,2 @@
-public class MyApplicьбдлвсation {
+public class MyApplilklkzl zkcьбдлвсation {
 }
